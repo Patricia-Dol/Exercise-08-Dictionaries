@@ -2,6 +2,7 @@ alphabet: str = "abcedfghijklmnopqrstuvwxyz"
 keys: str = "22233344455566677778889999"
 
 """Convert a mnemonic into a phone number"""
+# test
 
 converter: dict[str, int] = {}
 
